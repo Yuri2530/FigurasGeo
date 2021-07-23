@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/21 14:54:11.000.849,=D:\Bibliotecas\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/21 15:53:48.000.493,=D:\Bibliotecas\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/21 17:12:41.000.007,D:\Bibliotecas\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=D:\PracticaYuri\FigurasGeo\Unit2.dfm</Transaction>
+    <Transaction>2021/07/21 17:12:41.000.007,D:\Bibliotecas\Documentos\Embarcadero\Studio\Projects\Unit2.pas=D:\PracticaYuri\FigurasGeo\Unit2.pas</Transaction>
+    <Transaction>2021/07/21 17:12:52.000.651,D:\Bibliotecas\Documentos\Embarcadero\Studio\Projects\Project2.dproj=D:\PracticaYuri\FigurasGeo\Project2.dproj</Transaction>
+    <Transaction>2021/07/22 15:32:34.000.758,=D:\PracticaYuri\FigurasGeo\Unit1.pas</Transaction>
+    <Transaction>2021/07/22 15:33:26.000.963,D:\PracticaYuri\FigurasGeo\uFuncionArea.pas=D:\PracticaYuri\FigurasGeo\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
